@@ -1,0 +1,7 @@
+回声“# shengwang”。>> README.md
+git init
+git添加README.md
+git提交-m“第一次提交”
+git分支-M主
+git远程添加来源https://github.com/Mark-2633627491/shengwang..git
+git push -u 起源主
